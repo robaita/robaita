@@ -4,13 +4,20 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:locale" content="en_US" /><meta property="og:type" content="article" />
+        <meta property="og:title" content="Workshop Registration- Robaita" />
+        <meta property="og:url" content="https://www.robaita.com/machine_leanring_workshop.php/" />
+        <meta property="og:site_name" content="robaita" />
+        <meta property="article:publisher" content="https://www.facebook.com/RoboticsAndAITrainingAcademy/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Workshop Registration- Robaita" />
         <meta http-equiv="cache-control" content="no-cache" />
         <meta http-equiv="Pragma" content="no-cache" />
         <meta http-equiv="Expires" content="-1" />
         <!-- ===============================================-->
         <!--    Document Title-->
         <!-- ===============================================-->
-        <title>Robotics & Artificial Intelligence Training Academy</title>
+        <title>Workshop Registration- Robaita</title>
         <!-- ===============================================-->
         <!--    Favicons-->
         <!-- ===============================================-->
