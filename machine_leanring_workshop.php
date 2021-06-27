@@ -15,7 +15,7 @@
         <!-- ===============================================-->
         <!--    Document Title-->
         <!-- ===============================================-->
-        <title>Robotics & Artificial Intelligence Training Academy</title>
+        <title>Machine Learning Workshop - Robaita</title>
         <!-- ===============================================-->
         <!--    Favicons-->
         <!-- ===============================================-->
