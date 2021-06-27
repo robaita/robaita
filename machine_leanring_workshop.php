@@ -53,7 +53,7 @@
                     <h1>Practical Machine Learning Workshop</h1>
                     <h3>in Association with </h3>
                     <h2>Robotics and Artificial Intelligence Training Academy (Robaita)</h2>
-                    <strong>23-25 July 2021, 3PM-6PM IST</strong>
+                    <!-- <strong>23-25 July 2021, 3PM-6PM IST</strong> -->
                     </div>
                     <div class="container_new">
                         <div style="padding: 15px; background-color: tomato; box-shadow: 10px 10px 5px grey;">
@@ -187,8 +187,8 @@
                     </div>
 
                     <div id="grad1" style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">
-                    <h5 style="text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; ">Workshop Registration Fee: 1000 INR 
-                    <a href="assets/img/gallery/ML_Workshop_UPI.jpeg"> [Payment Method] </a> </h5>
+                    <!-- <h5 style="text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; ">Workshop Registration Fee: 1000 INR  -->
+                    <!-- <a href="assets/img/gallery/ML_Workshop_UPI.jpeg"> [Payment Method] </a> </h5> -->
                     <h3 style=" font-family:Courier; color:green; font-size: 20px;"> You can even write to us at </h3>
                     <a style="background-color: white;
                         color: white;
