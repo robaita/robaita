@@ -94,7 +94,7 @@
                         <p style="text-align: justify; font-family:Courier; color:white; font-size: 15px;">
                         He is a research scientist at Montpellier University, France and worked with various industries such as HCL, 
                         eClerx, Intain, Brane Enterprises. He received his Ph.D in Robotics and Artificial Intelligence from Indian 
-                        Institute of Information Technology, Allahabd, India. He worked 2 years as a researcher with Umea University, 
+                        Institute of Information Technology, Allahabad, India. He worked 2 years as a researcher with Umea University, 
                         Sweden. He possesses a wide range of experience working in Machine Leanring, Deep Leanring and Human-Robot Interaction. 
                         He has been a part of various talks and webinars in India and Abroad.  He has published various high impact SCI journals and top 
                         conferences and an active member of computer science society. His, 10 years of industry and academic experience will 
