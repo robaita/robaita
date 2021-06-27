@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 5px;
+    background-color: white;
+  }
+  
+  .input {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+.input1 {border-radius: 2px;}
+.input2 {border-radius: 4px;}
+.input3 {border-radius: 8px;}
+.input4 {border-radius: 12px;}
+.input5 {border-radius: 50%;}
+
+  /* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 5px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Overwrite default styles of hr */
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+  
+  .error {color: #FF0000;}
+
+  /* Set a style for the submit button */
+  .registerbtn {
+    background-color: #0abeeb;
+    color: white;
+    padding: 5px 5px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    border-radius: 8px;
+  }
+  
+  .registerbtn:hover {
+    color: #045cf3;
+    text-decoration: none;
+  }
+  .registerbtn-check:focus + .btn, .btn:focus {
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 0.25rem rgba(113, 124, 255, 0.25);
+    box-shadow: 0 0 0 0.25rem rgba(113, 124, 255, 0.25);
+  }
+  .registerbtn:hover {
+    opacity: 1;
+  }
+  
+  /* Add a blue text color to links */
+  a {
+    color: dodgerblue;
+  }
+  
+  /* Set a grey background color and center the text of the "sign in" section */
+  .signin {
+    background-color: #f1f1f1;
+    text-align: center;
+  }
+
+  .alert {
+    padding: 5px;
+    background-color: #36f43f;
+    color: white;
+    border-radius: 8px;
+  }
+
+  .xd-content .xd-body .xd-body-inner {
+    max-height: unset;
+}
+.xd-content .xd-body p {
+    color: #f0f;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.75);
+}
+.xd-content .xd-button.xd-ok {
+    background: #734caf;
+}
+  
+ 
+ 
