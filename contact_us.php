@@ -1,13 +1,21 @@
 <!DOCTYPE html>
-<html lang="en-US" dir="ltr">
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Contact us - Robaita" />
+        <meta property="og:url" content="https://www.robaita.com/machine_leanring_workshop.php/" />
+        <meta property="og:site_name" content="robaita" />
+        <meta property="article:publisher" content="https://www.facebook.com/RoboticsAndAITrainingAcademy/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Contact us - Robaita" />
         <!-- ===============================================-->
         <!--    Document Title-->
         <!-- ===============================================-->
-        <title>Robotics & Artificial Intelligence Training Academy</title>
+        <title>Contact us - Robaita</title>
         <!-- ===============================================-->
         <!--    Favicons-->
         <!-- ===============================================-->
