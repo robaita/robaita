@@ -2,6 +2,7 @@
 <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
     <head>
         <meta charset="utf-8">
+        <meta name="google-site-verification" content="z8K8WKsEkQ-CAo9zqQws6CldP8F9sB2tnGm0GOiVwNQ" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- ===============================================-->
