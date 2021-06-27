@@ -7,7 +7,7 @@
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Terms & Condition- Robaita" />
-        <meta property="og:url" content="https://www.robaita.com/machine_leanring_workshop.php/" />
+        <meta property="og:url" content="https://www.robaita.com/terms_condition.php/" />
         <meta property="og:site_name" content="robaita" />
         <meta property="article:publisher" content="https://www.facebook.com/RoboticsAndAITrainingAcademy/" />
         <meta name="twitter:card" content="summary_large_image" />
