@@ -5,10 +5,15 @@
         <meta name="google-site-verification" content="z8K8WKsEkQ-CAo9zqQws6CldP8F9sB2tnGm0GOiVwNQ" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:title" content="Home - INSAID" />
+        <meta property="og:url" content="https://www.robaita.com/" />
+        <meta property="og:site_name" content="robaita" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Home -robaita" />
         <!-- ===============================================-->
         <!--    Document Title-->
         <!-- ===============================================-->
-        <title>Robotics & Artificial Intelligence Training Academy</title>
+        <title>Robaita</title>
         <!-- ===============================================-->
         <!--    Favicons-->
         <!-- ===============================================-->
