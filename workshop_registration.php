@@ -222,7 +222,8 @@
         <section class="bg-10" id="courses">
             <div class="container">
                 <div class="row">
-                <form method="post" onsubmit="return Validate(this);" enctype="multipart/form-data" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+                <!-- <form method="post" onsubmit="return Validate(this);" enctype="multipart/form-data" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>"> -->
+                <form method="post" enctype="multipart/form-data" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
                     <div class="container">
                     <h1>Registration</h1>
                     <p>Please fill in this form to register for the workshop. In case you face any problem please reach out to us at contact@robaita.com</p>
