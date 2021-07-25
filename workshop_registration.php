@@ -266,6 +266,7 @@
                         fwrite($myfile, "How you know about us: ".$know."\n");
                         fclose($myfile);
 
+                        echo '<script>swal("Thank You!", "You have registered successfully. You will soon receive an email on your registered mail id.", "success");</script>';
                         // Save image
                         // $target_dir = "stored_receipts/".date("d-m-Y")."/";
                         // echo $_FILES["receipt_id"]["name"];
