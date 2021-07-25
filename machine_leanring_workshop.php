@@ -85,7 +85,7 @@
                         </div>
                     </div>
                     <div id="grad1" style="background-color:#e5e5e5;padding:15px;text-align:center;">
-                        <a class="btn btn-lg btn-primary hover-top btn-glow" href="registration.php">Workshop Registration</a>
+                        <a class="btn btn-lg btn-primary hover-top btn-glow" href="workshop_registration.php">Workshop Registration</a>
                         <h3>About Speakers and Affiliations</h3>
                     </div>
                     <div class="container_new">
