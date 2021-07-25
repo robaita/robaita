@@ -10,7 +10,7 @@
             <b><p class="mb-1 fs-1 2h-lg">Learn Robotics and Artificial Intelligence with</p></b>
             <h1 >Robotics & Artificial Intelligence Training Academy</h1>
             <p class="mb-2 fs-1 2h-lg" style="color:blue;">We would love to help you to understand the nuances of Robotics and AI with our 10 years of experience. If you are a college student, looking to learn or if you are a graduate looking for a job, or if you are a practitioner looking for a job change in this new horizon. Lets work together to make things possible.</p>
-            <a class="btn btn-lg btn-primary hover-top btn-glow" href="registration.php">Workshop Registration
+            <a class="btn btn-lg btn-primary hover-top btn-glow" href="workshop_registration.php">Workshop Registration
               <svg class="bi bi-arrow-right-short ms-2" xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"></path>
               </svg></a>
